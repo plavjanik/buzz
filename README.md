@@ -3,9 +3,9 @@ The missing package manager for z/OS UNIX.
 
 Buzz simplifies installation of open-source software to z/OS UNIX in a similar way how do Linux package managers like yum or Aptitude or Homebrew for Mac OS X. 
 
-buzz install jdk7
-buzz install python27
-buzz install curl
+buzz install jdk7  
+buzz install python27  
+buzz install curl  
 
 Buzz has no dependencies and it uses only tools that are provided by z/OS. It does not require more security privileges than the installed software itself. 
 
